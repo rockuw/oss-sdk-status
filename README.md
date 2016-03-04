@@ -30,7 +30,7 @@ Language | Version | Build | Coverage | Stars
 [php-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-php-sdk.svg?style=social&label=Star
 
 [java-repo]: https://github.com/aliyun/aliyun-oss-java-sdk
-[java-version]: https://badge.fury.io/rb/aliyun-sdk.svg
+[java-version]: https://badge.fury.io/unknown.svg
 [java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg
 [java-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master&service=github
 [java-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-java-sdk.svg?style=social&label=Star
@@ -42,7 +42,7 @@ Language | Version | Build | Coverage | Stars
 [javascript-stars]: https://img.shields.io/github/stars/ali-sdk/ali-oss.svg?style=social&label=Star
 
 [go-repo]: https://github.com/aliyun/aliyun-oss-go-sdk
-[go-version]: https://badge.fury.io/rb/aliyun-sdk.svg
+[go-version]: https://badge.fury.io/unknown.svg
 [go-build]: https://travis-ci.org/aliyun/aliyun-oss-go-sdk.svg
 [go-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-go-sdk/badge.svg?branch=master&service=github
 [go-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-go-sdk.svg?style=social&label=Star
@@ -54,7 +54,7 @@ Language | Version | Build | Coverage | Stars
 [c-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-c-sdk.svg?style=social&label=Star
 
 [media-repo]: https://github.com/aliyun/aliyun-oss-media-c-sdk
-[media-version]: https://badge.fury.io/rb/aliyun-sdk.svg
+[media-version]: https://badge.fury.io/unknown.svg
 [media-build]: https://travis-ci.org/aliyun/aliyun-oss-media-c-sdk.svg
 [media-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-media-c-sdk/badge.svg?branch=master&service=github
 [media-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-media-c-sdk.svg?style=social&label=Star
