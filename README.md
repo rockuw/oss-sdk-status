@@ -2,16 +2,15 @@
 
 Language | Version | Build | Coverage | Stars
 ---      | ---     | ---   | ---      | ---
-[Ruby][ruby-repo] | ![Ruby SDK Version][ruby-version] | ![Ruby SDK Build][ruby-build] | ![Ruby SDK Coverage][ruby-coverage] | <a class="github-button" href="https://github.com/aliyun/aliyun-oss-ruby-sdk" data-icon="octicon-star" data-style="mega" data-count-href="/aliyun/aliyun-oss-ruby-sdk/stargazers" data-count-api="/repos/aliyun/aliyun-oss-ruby-sdk#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star aliyun/aliyun-oss-ruby-sdk on GitHub">Star</a>
 [Python][python-repo] | ![Python SDK Version][python-version] | ![Python SDK Build][python-build] | ![Python SDK Coverage][python-coverage] | ![Python SDK Stars][python-stars]
-[PHP][php-repo] | ![PHP SDK Version][php-version] | ![PHP SDK Build][php-build] | ![PHP SDK Coverage][php-coverage] | ![PHP SDK Stars][php-stars]
-[Java][java-repo] | ![Java SDK Version][java-version] | ![Java SDK Build][java-build] | ![Java SDK Coverage][java-coverage] | ![Java SDK Stars][java-stars]
+[Ruby][ruby-repo] | ![Ruby SDK Version][ruby-version] | ![Ruby SDK Build][ruby-build] | ![Ruby SDK Coverage][ruby-coverage] | ![Ruby SDK Stars][ruby-stars]
 [JavaScript][javascript-repo] | ![JavaScript SDK Version][javascript-version] | ![JavaScript SDK Build][javascript-build] | ![JavaScript SDK Coverage][javascript-coverage] | ![JavaScript SDK Stars][javascript-stars]
-[Go][go-repo] | ![Go SDK Version][go-version] | ![Go SDK Build][go-build] | ![Go SDK Coverage][go-coverage] | ![Go SDK Stars][go-stars]
+[PHP][php-repo] | ![PHP SDK Version][php-version] | ![PHP SDK Build][php-build] | ![PHP SDK Coverage][php-coverage] | ![PHP SDK Stars][php-stars]
 [C][c-repo] | ![C SDK Version][c-version] | ![C SDK Build][c-build] | ![C SDK Coverage][c-coverage] | ![C SDK Stars][c-stars]
+[Go][go-repo] | ![Go SDK Version][go-version] | ![Go SDK Build][go-build] | ![Go SDK Coverage][go-coverage] | ![Go SDK Stars][go-stars]
+[Java][java-repo] | ![Java SDK Version][java-version] | ![Java SDK Build][java-build] | ![Java SDK Coverage][java-coverage] | ![Java SDK Stars][java-stars]
+[C#][csharp-repo] | ![CSharp SDK Version][csharp-version] | ![CSharp SDK Build][csharp-build] | ![CSharp SDK Coverage][csharp-coverage] | ![CSharp SDK Stars][csharp-stars]
 [C-Media][media-repo] | ![Media SDK Version][media-version] | ![Media SDK Build][media-build] | ![Media SDK Coverage][media-coverage] | ![Media SDK Stars][media-stars]
-
-<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 [ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
 [ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
@@ -36,6 +35,12 @@ Language | Version | Build | Coverage | Stars
 [java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg
 [java-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master&service=github
 [java-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-java-sdk.svg?style=social&label=Star
+
+[csharp-repo]: https://github.com/aliyun/aliyun-oss-csharp-sdk
+[csharp-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk.svg
+[csharp-build]: https://travis-ci.org/aliyun/aliyun-oss-csharp-sdk.svg
+[csharp-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-csharp-sdk/badge.svg?branch=master&service=github
+[csharp-stars]: https://img.shields.io/github/stars/aliyun/aliyun-oss-csharp-sdk.svg?style=social&label=Star
 
 [javascript-repo]: https://github.com/ali-sdk/ali-oss
 [javascript-version]: https://img.shields.io/npm/v/ali-oss.svg?style=flat-square
