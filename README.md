@@ -11,6 +11,8 @@ Language | Version | Build | Coverage | Stars
 [C][c-repo] | ![C SDK Version][c-version] | ![C SDK Build][c-build] | ![C SDK Coverage][c-coverage] | ![C SDK Stars][c-stars]
 [C-Media][media-repo] | ![Media SDK Version][media-version] | ![Media SDK Build][media-build] | ![Media SDK Coverage][media-coverage] | ![Media SDK Stars][media-stars]
 
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+
 [ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
 [ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
 [ruby-build]: https://travis-ci.org/aliyun/aliyun-oss-ruby-sdk.svg
