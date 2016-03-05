@@ -46,7 +46,7 @@ Language | Version | Build | Coverage | Stars
 [javascript-version]: https://badge.fury.io/js/ali-oss.svg
 [javascript-build]: https://travis-ci.org/ali-sdk/ali-oss.svg
 [javascript-coverage]: http://codecov.io/github/ali-sdk/ali-oss/coverage.svg?branch=master
-[javascript-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-javascript-sdk&type=star
+[javascript-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/ali-sdk/ali-oss&type=star
 
 [go-repo]: https://github.com/aliyun/aliyun-oss-go-sdk
 [go-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-go-sdk.svg
