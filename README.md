@@ -2,7 +2,7 @@
 
 Language | Version | Build | Coverage | Stars
 ---      | ---     | ---   | ---      | ---
-[Ruby][ruby-repo] | ![Ruby SDK Version][ruby-version] | ![Ruby SDK Build][ruby-build] | ![Ruby SDK Coverage][ruby-coverage] | ![Ruby SDK Stars][ruby-stars]
+[Ruby][ruby-repo] | ![Ruby SDK Version][ruby-version] | ![Ruby SDK Build][ruby-build] | ![Ruby SDK Coverage][ruby-coverage] | <a class="github-button" href="https://github.com/aliyun/aliyun-oss-ruby-sdk" data-icon="octicon-star" data-style="mega" data-count-href="/aliyun/aliyun-oss-ruby-sdk/stargazers" data-count-api="/repos/aliyun/aliyun-oss-ruby-sdk#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star aliyun/aliyun-oss-ruby-sdk on GitHub">Star</a>
 [Python][python-repo] | ![Python SDK Version][python-version] | ![Python SDK Build][python-build] | ![Python SDK Coverage][python-coverage] | ![Python SDK Stars][python-stars]
 [PHP][php-repo] | ![PHP SDK Version][php-version] | ![PHP SDK Build][php-build] | ![PHP SDK Coverage][php-coverage] | ![PHP SDK Stars][php-stars]
 [Java][java-repo] | ![Java SDK Version][java-version] | ![Java SDK Build][java-build] | ![Java SDK Coverage][java-coverage] | ![Java SDK Stars][java-stars]
