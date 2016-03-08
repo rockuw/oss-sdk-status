@@ -14,54 +14,54 @@ Language | Version | Build | Coverage | Stars
 
 [ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
 [ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
-[ruby-build]: https://travis-ci.org/aliyun/aliyun-oss-ruby-sdk.svg
+[ruby-build]: https://travis-ci.org/aliyun/aliyun-oss-ruby-sdk.svg?branch=master
 [ruby-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-ruby-sdk/badge.svg?branch=master&service=github
 [ruby-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-ruby-sdk&type=star
 
 [python-repo]: https://github.com/aliyun/aliyun-oss-python-sdk
 [python-version]: https://badge.fury.io/py/oss2.svg
-[python-build]: https://travis-ci.org/aliyun/aliyun-oss-python-sdk.svg
+[python-build]: https://travis-ci.org/aliyun/aliyun-oss-python-sdk.svg?branch=master
 [python-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-python-sdk/badge.svg?branch=master&service=github
 [python-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-python-sdk&type=star
 
 [php-repo]: https://github.com/aliyun/aliyun-oss-php-sdk
 [php-version]: https://poser.pugx.org/aliyuncs/oss-sdk-php/v/stable
-[php-build]: https://travis-ci.org/aliyun/aliyun-oss-php-sdk.svg
+[php-build]: https://travis-ci.org/aliyun/aliyun-oss-php-sdk.svg?branch=master
 [php-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-php-sdk/badge.svg?branch=master&service=github
 [php-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-php-sdk&type=star
 
 [java-repo]: https://github.com/aliyun/aliyun-oss-java-sdk
 [java-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-java-sdk.svg
-[java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg
+[java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg?branch=master
 [java-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master&service=github
 [java-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-java-sdk&type=star
 
 [csharp-repo]: https://github.com/aliyun/aliyun-oss-csharp-sdk
 [csharp-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk.svg
-[csharp-build]: https://travis-ci.org/aliyun/aliyun-oss-csharp-sdk.svg
+[csharp-build]: https://travis-ci.org/aliyun/aliyun-oss-csharp-sdk.svg?branch=master
 [csharp-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-csharp-sdk/badge.svg?branch=master&service=github
 [csharp-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-csharp-sdk&type=star
 
 [javascript-repo]: https://github.com/ali-sdk/ali-oss
 [javascript-version]: https://badge.fury.io/js/ali-oss.svg
-[javascript-build]: https://travis-ci.org/ali-sdk/ali-oss.svg
+[javascript-build]: https://travis-ci.org/ali-sdk/ali-oss.svg?branch=master
 [javascript-coverage]: http://codecov.io/github/ali-sdk/ali-oss/coverage.svg?branch=master
 [javascript-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/ali-sdk/ali-oss&type=star
 
 [go-repo]: https://github.com/aliyun/aliyun-oss-go-sdk
 [go-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-go-sdk.svg
-[go-build]: https://travis-ci.org/aliyun/aliyun-oss-go-sdk.svg
+[go-build]: https://travis-ci.org/aliyun/aliyun-oss-go-sdk.svg?branch=master
 [go-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-go-sdk/badge.svg?branch=master&service=github
 [go-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-go-sdk&type=star
 
 [c-repo]: https://github.com/aliyun/aliyun-oss-c-sdk
 [c-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-c-sdk.svg
-[c-build]: https://travis-ci.org/aliyun/aliyun-oss-c-sdk.svg
+[c-build]: https://travis-ci.org/aliyun/aliyun-oss-c-sdk.svg?branch=master
 [c-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-c-sdk/badge.svg?branch=master&service=github
 [c-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-c-sdk&type=star
 
 [media-repo]: https://github.com/aliyun/aliyun-media-c-sdk
 [media-version]: https://badge.fury.io/gh/aliyun%2Faliyun-media-c-sdk.svg
-[media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg
+[media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg?branch=master
 [media-coverage]: https://coveralls.io/repos/aliyun/aliyun-media-c-sdk/badge.svg?branch=master&service=github
 [media-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-media-c-sdk&type=star
