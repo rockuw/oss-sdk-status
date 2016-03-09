@@ -65,3 +65,45 @@ Language | Version | Build | Coverage | Stars
 [media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg?branch=master
 [media-coverage]: https://coveralls.io/repos/aliyun/aliyun-media-c-sdk/badge.svg?branch=master&service=github
 [media-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-media-c-sdk&type=star
+
+# Development (OSS members only)
+
+We prefer the *branch way* to the *fork way*, in order to run function
+tests in travis CI. **DO NOT** push directly to master branch unless
+you're making trivial changes such as fixing typo.
+
+## Clone
+
+```bash
+git clone git@github.com:aliyun/aliyun-oss-ruby-sdk.git
+```
+
+## Branch
+
+Pick a branch name for your change and then:
+
+```bash
+cd aliyun-oss-ruby-sdk
+git branch refine-readme
+# edit files
+git add xxx
+git commit -m "bla bla bla"
+
+git push origin refine-readme
+```
+
+## Pull request
+
+Create a pull request from branch `refine-readme` to `master`:
+
+![Create PR](create_pr.png?raw=true "Create pull request")
+
+Follow the CLAAssistant and Sign CLA:
+
+![Sign CLA](sign_cla.png?raw=true "Sign CLA")
+
+Check the tests PASS and coverage DOES NOT DROP. Then Merge the pull
+request and delete the branch:
+
+![Accept PR](accept_pr.png?raw=true "Accept PR")
+![Delete Branch](delete_branch.png?raw=true "Delete Branch")
