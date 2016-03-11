@@ -85,6 +85,7 @@ Pick a branch name for your change and then:
 ```bash
 cd aliyun-oss-ruby-sdk
 git branch refine-readme
+git checkout refine-readme
 # edit files
 git add xxx
 git commit -m "bla bla bla"
