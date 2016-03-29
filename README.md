@@ -11,6 +11,7 @@ Language | Version | Build | Coverage | Stars
 [Java][java-repo] | ![Java SDK Version][java-version] | ![Java SDK Build][java-build] | ![Java SDK Coverage][java-coverage] | ![Java SDK Stars][java-stars]
 [C#][csharp-repo] | ![CSharp SDK Version][csharp-version] | ![CSharp SDK Build][csharp-build] | ![CSharp SDK Coverage][csharp-coverage] | ![CSharp SDK Stars][csharp-stars]
 [C-Media][media-repo] | ![Media SDK Version][media-version] | ![Media SDK Build][media-build] | ![Media SDK Coverage][media-coverage] | ![Media SDK Stars][media-stars]
+[OSSFS][ossfs-repo] | ![OSSFS Version][ossfs-version] | ![OSSFS Build][ossfs-build] | ![OSSFS Coverage][ossfs-coverage] | ![OSSFS Stars][ossfs-stars]
 
 [ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
 [ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
@@ -65,6 +66,12 @@ Language | Version | Build | Coverage | Stars
 [media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg?branch=master
 [media-coverage]: https://coveralls.io/repos/aliyun/aliyun-media-c-sdk/badge.svg?branch=master&service=github
 [media-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-media-c-sdk&type=star
+
+[ossfs-repo]: https://github.com/aliyun/ossfs
+[ossfs-version]: https://badge.fury.io/gh/aliyun%2Fossfs.svg
+[ossfs-build]: https://travis-ci.org/aliyun/ossfs.svg?branch=master
+[ossfs-coverage]: https://coveralls.io/repos/aliyun/ossfs/badge.svg?branch=master&service=github
+[ossfs-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/ossfs&type=star
 
 # Development (OSS members only)
 
