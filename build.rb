@@ -46,12 +46,12 @@ puts
 
 def repo_name(s)
   lang = s.downcase
-  if lang == 'media-c'
+  if lang == 'c-media'
     'aliyun/aliyun-media-c-sdk'
   elsif lang == 'javascript'
     'ali-sdk/ali-oss'
   elsif lang == 'ossfs'
-    'aliyun/aliyun-ossfs'
+    'aliyun/ossfs'
   else
     "aliyun/aliyun-oss-#{lang}-sdk"
   end
