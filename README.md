@@ -27,12 +27,12 @@ Language | Version | Build | Coverage | Stars | Issues
 [ruby-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-ruby-sdk.svg?style=social&label=Star&maxAge=3600
 [ruby-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-ruby-sdk.svg?maxAge=3600
 
-[javascript-repo]: https://github.com/ali-oss/ali-oss
+[javascript-repo]: https://github.com/ali-sdk/ali-oss
 [javascript-version]: https://badge.fury.io/js/ali-oss.svg
-[javascript-build]: https://travis-ci.org/ali-oss/ali-oss.svg?branch=master
-[javascript-coverage]: http://codecov.io/github/ali-oss/ali-oss/coverage.svg?branch=master
-[javascript-star]: https://img.shields.io/github/stars/ali-oss/ali-oss.svg?style=social&label=Star&maxAge=3600
-[javascript-issue]: https://img.shields.io/github/issues/ali-oss/ali-oss.svg?maxAge=3600
+[javascript-build]: https://travis-ci.org/ali-sdk/ali-oss.svg?branch=master
+[javascript-coverage]: http://codecov.io/github/ali-sdk/ali-oss/coverage.svg?branch=master
+[javascript-star]: https://img.shields.io/github/stars/ali-sdk/ali-oss.svg?style=social&label=Star&maxAge=3600
+[javascript-issue]: https://img.shields.io/github/issues/ali-sdk/ali-oss.svg?maxAge=3600
 
 [php-repo]: https://github.com/aliyun/aliyun-oss-php-sdk
 [php-version]: https://poser.pugx.org/aliyuncs/oss-sdk-php/v/stable
@@ -76,12 +76,13 @@ Language | Version | Build | Coverage | Stars | Issues
 [c-media-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-c-media-sdk.svg?style=social&label=Star&maxAge=3600
 [c-media-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-c-media-sdk.svg?maxAge=3600
 
-[ossfs-repo]: https://github.com/
+[ossfs-repo]: https://github.com/aliyun/aliyun-ossfs
 [ossfs-version]: https://badge.fury.io/gh/aliyun%2Fossfs.svg
-[ossfs-build]: https://travis-ci.org/.svg?branch=master
-[ossfs-coverage]: https://coveralls.io/repos//badge.svg?branch=master
-[ossfs-star]: https://img.shields.io/github/stars/.svg?style=social&label=Star&maxAge=3600
-[ossfs-issue]: https://img.shields.io/github/issues/.svg?maxAge=3600
+[ossfs-build]: https://travis-ci.org/aliyun/aliyun-ossfs.svg?branch=master
+[ossfs-coverage]: https://coveralls.io/repos/aliyun/aliyun-ossfs/badge.svg?branch=master
+[ossfs-star]: https://img.shields.io/github/stars/aliyun/aliyun-ossfs.svg?style=social&label=Star&maxAge=3600
+[ossfs-issue]: https://img.shields.io/github/issues/aliyun/aliyun-ossfs.svg?maxAge=3600
+
 
 # Development (OSS members only)
 
