@@ -49,10 +49,9 @@ def repo_name(s)
   if lang == 'media-c'
     'aliyun/aliyun-media-c-sdk'
   elsif lang == 'javascript'
-    'ali-oss/ali-oss'
-  elsif lang == 'csharp'
-    'aliyun/aliyun-oss-csharp-sdk'
+    'ali-sdk/ali-oss'
   elsif lang == 'ossfs'
+    'aliyun/aliyun-ossfs'
   else
     "aliyun/aliyun-oss-#{lang}-sdk"
   end
@@ -106,7 +105,10 @@ all.each do |s|
   puts
 end
 
+### Development flow
+
 puts <<EEE
+
 # Development (OSS members only)
 
 We prefer the *branch way* to the *fork way*, in order to run function
