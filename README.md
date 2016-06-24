@@ -1,77 +1,87 @@
 # OSS SDK Status
 
-Language | Version | Build | Coverage | Stars
----      | ---     | ---   | ---      | ---
-[Python][python-repo] | ![Python SDK Version][python-version] | ![Python SDK Build][python-build] | ![Python SDK Coverage][python-coverage] | ![Python SDK Stars][python-stars]
-[Ruby][ruby-repo] | ![Ruby SDK Version][ruby-version] | ![Ruby SDK Build][ruby-build] | ![Ruby SDK Coverage][ruby-coverage] | ![Ruby SDK Stars][ruby-stars]
-[JavaScript][javascript-repo] | ![JavaScript SDK Version][javascript-version] | ![JavaScript SDK Build][javascript-build] | ![JavaScript SDK Coverage][javascript-coverage] | ![JavaScript SDK Stars][javascript-stars]
-[PHP][php-repo] | ![PHP SDK Version][php-version] | ![PHP SDK Build][php-build] | ![PHP SDK Coverage][php-coverage] | ![PHP SDK Stars][php-stars]
-[C][c-repo] | ![C SDK Version][c-version] | ![C SDK Build][c-build] | ![C SDK Coverage][c-coverage] | ![C SDK Stars][c-stars]
-[Go][go-repo] | ![Go SDK Version][go-version] | ![Go SDK Build][go-build] | ![Go SDK Coverage][go-coverage] | ![Go SDK Stars][go-stars]
-[Java][java-repo] | ![Java SDK Version][java-version] | ![Java SDK Build][java-build] | ![Java SDK Coverage][java-coverage] | ![Java SDK Stars][java-stars]
-[C#][csharp-repo] | ![CSharp SDK Version][csharp-version] | ![CSharp SDK Build][csharp-build] | ![CSharp SDK Coverage][csharp-coverage] | ![CSharp SDK Stars][csharp-stars]
-[C-Media][media-repo] | ![Media SDK Version][media-version] | ![Media SDK Build][media-build] | ![Media SDK Coverage][media-coverage] | ![Media SDK Stars][media-stars]
-[OSSFS][ossfs-repo] | ![OSSFS Version][ossfs-version] | ![OSSFS Build][ossfs-build] | ![OSSFS Coverage][ossfs-coverage] | ![OSSFS Stars][ossfs-stars]
-
-[ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
-[ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
-[ruby-build]: https://travis-ci.org/aliyun/aliyun-oss-ruby-sdk.svg?branch=master
-[ruby-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-ruby-sdk/badge.svg?branch=master&service=github
-[ruby-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-ruby-sdk&type=star
+Language | Version | Build | Coverage | Stars | Issues
+---      | ---     | ---   | ---      | ---   | ---
+[Python][python-repo] | ![Python-version][python-version] | ![Python-build][python-build] | ![Python-coverage][python-coverage] | ![Python-star][python-star] | ![Python-issue][python-issue]
+[Ruby][ruby-repo] | ![Ruby-version][ruby-version] | ![Ruby-build][ruby-build] | ![Ruby-coverage][ruby-coverage] | ![Ruby-star][ruby-star] | ![Ruby-issue][ruby-issue]
+[JavaScript][javascript-repo] | ![Javascript-version][javascript-version] | ![Javascript-build][javascript-build] | ![Javascript-coverage][javascript-coverage] | ![Javascript-star][javascript-star] | ![Javascript-issue][javascript-issue]
+[PHP][php-repo] | ![Php-version][php-version] | ![Php-build][php-build] | ![Php-coverage][php-coverage] | ![Php-star][php-star] | ![Php-issue][php-issue]
+[C][c-repo] | ![C-version][c-version] | ![C-build][c-build] | ![C-coverage][c-coverage] | ![C-star][c-star] | ![C-issue][c-issue]
+[Go][go-repo] | ![Go-version][go-version] | ![Go-build][go-build] | ![Go-coverage][go-coverage] | ![Go-star][go-star] | ![Go-issue][go-issue]
+[Java][java-repo] | ![Java-version][java-version] | ![Java-build][java-build] | ![Java-coverage][java-coverage] | ![Java-star][java-star] | ![Java-issue][java-issue]
+[C#][csharp-repo] | ![Csharp-version][csharp-version] | ![Csharp-build][csharp-build] | ![Csharp-coverage][csharp-coverage] | ![Csharp-star][csharp-star] | ![Csharp-issue][csharp-issue]
+[C-Media][c-media-repo] | ![C-media-version][c-media-version] | ![C-media-build][c-media-build] | ![C-media-coverage][c-media-coverage] | ![C-media-star][c-media-star] | ![C-media-issue][c-media-issue]
+[OSSFS][ossfs-repo] | ![Ossfs-version][ossfs-version] | ![Ossfs-build][ossfs-build] | ![Ossfs-coverage][ossfs-coverage] | ![Ossfs-star][ossfs-star] | ![Ossfs-issue][ossfs-issue]
 
 [python-repo]: https://github.com/aliyun/aliyun-oss-python-sdk
 [python-version]: https://badge.fury.io/py/oss2.svg
 [python-build]: https://travis-ci.org/aliyun/aliyun-oss-python-sdk.svg?branch=master
-[python-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-python-sdk/badge.svg?branch=master&service=github
-[python-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-python-sdk&type=star
+[python-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-python-sdk/badge.svg?branch=master
+[python-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-python-sdk.svg?style=social&label=Star&maxAge=3600
+[python-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-python-sdk.svg?maxAge=3600
+
+[ruby-repo]: https://github.com/aliyun/aliyun-oss-ruby-sdk
+[ruby-version]: https://badge.fury.io/rb/aliyun-sdk.svg
+[ruby-build]: https://travis-ci.org/aliyun/aliyun-oss-ruby-sdk.svg?branch=master
+[ruby-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-ruby-sdk/badge.svg?branch=master
+[ruby-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-ruby-sdk.svg?style=social&label=Star&maxAge=3600
+[ruby-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-ruby-sdk.svg?maxAge=3600
+
+[javascript-repo]: https://github.com/ali-oss/ali-oss
+[javascript-version]: https://badge.fury.io/js/ali-oss.svg
+[javascript-build]: https://travis-ci.org/ali-oss/ali-oss.svg?branch=master
+[javascript-coverage]: http://codecov.io/github/ali-oss/ali-oss/coverage.svg?branch=master
+[javascript-star]: https://img.shields.io/github/stars/ali-oss/ali-oss.svg?style=social&label=Star&maxAge=3600
+[javascript-issue]: https://img.shields.io/github/issues/ali-oss/ali-oss.svg?maxAge=3600
 
 [php-repo]: https://github.com/aliyun/aliyun-oss-php-sdk
 [php-version]: https://poser.pugx.org/aliyuncs/oss-sdk-php/v/stable
 [php-build]: https://travis-ci.org/aliyun/aliyun-oss-php-sdk.svg?branch=master
-[php-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-php-sdk/badge.svg?branch=master&service=github
-[php-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-php-sdk&type=star
-
-[java-repo]: https://github.com/aliyun/aliyun-oss-java-sdk
-[java-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-java-sdk.svg
-[java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg?branch=master
-[java-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master&service=github
-[java-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-java-sdk&type=star
-
-[csharp-repo]: https://github.com/aliyun/aliyun-oss-csharp-sdk
-[csharp-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk.svg
-[csharp-build]: https://travis-ci.org/aliyun/aliyun-oss-csharp-sdk.svg?branch=master
-[csharp-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-csharp-sdk/badge.svg?branch=master&service=github
-[csharp-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-csharp-sdk&type=star
-
-[javascript-repo]: https://github.com/ali-sdk/ali-oss
-[javascript-version]: https://badge.fury.io/js/ali-oss.svg
-[javascript-build]: https://travis-ci.org/ali-sdk/ali-oss.svg?branch=master
-[javascript-coverage]: http://codecov.io/github/ali-sdk/ali-oss/coverage.svg?branch=master
-[javascript-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/ali-sdk/ali-oss&type=star
-
-[go-repo]: https://github.com/aliyun/aliyun-oss-go-sdk
-[go-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-go-sdk.svg
-[go-build]: https://travis-ci.org/aliyun/aliyun-oss-go-sdk.svg?branch=master
-[go-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-go-sdk/badge.svg?branch=master&service=github
-[go-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-go-sdk&type=star
+[php-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-php-sdk/badge.svg?branch=master
+[php-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-php-sdk.svg?style=social&label=Star&maxAge=3600
+[php-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-php-sdk.svg?maxAge=3600
 
 [c-repo]: https://github.com/aliyun/aliyun-oss-c-sdk
 [c-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-c-sdk.svg
 [c-build]: https://travis-ci.org/aliyun/aliyun-oss-c-sdk.svg?branch=master
-[c-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-c-sdk/badge.svg?branch=master&service=github
-[c-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-oss-c-sdk&type=star
+[c-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-c-sdk/badge.svg?branch=master
+[c-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-c-sdk.svg?style=social&label=Star&maxAge=3600
+[c-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-c-sdk.svg?maxAge=3600
 
-[media-repo]: https://github.com/aliyun/aliyun-media-c-sdk
-[media-version]: https://badge.fury.io/gh/aliyun%2Faliyun-media-c-sdk.svg
-[media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg?branch=master
-[media-coverage]: https://coveralls.io/repos/aliyun/aliyun-media-c-sdk/badge.svg?branch=master&service=github
-[media-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/aliyun-media-c-sdk&type=star
+[go-repo]: https://github.com/aliyun/aliyun-oss-go-sdk
+[go-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-go-sdk.svg
+[go-build]: https://travis-ci.org/aliyun/aliyun-oss-go-sdk.svg?branch=master
+[go-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-go-sdk/badge.svg?branch=master
+[go-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-go-sdk.svg?style=social&label=Star&maxAge=3600
+[go-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-go-sdk.svg?maxAge=3600
 
-[ossfs-repo]: https://github.com/aliyun/ossfs
+[java-repo]: https://github.com/aliyun/aliyun-oss-java-sdk
+[java-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-java-sdk.svg
+[java-build]: https://travis-ci.org/aliyun/aliyun-oss-java-sdk.svg?branch=master
+[java-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-java-sdk/badge.svg?branch=master
+[java-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-java-sdk.svg?style=social&label=Star&maxAge=3600
+[java-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-java-sdk.svg?maxAge=3600
+
+[csharp-repo]: https://github.com/aliyun/aliyun-oss-csharp-sdk
+[csharp-version]: https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk.svg
+[csharp-build]: https://travis-ci.org/aliyun/aliyun-oss-csharp-sdk.svg?branch=master
+[csharp-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-csharp-sdk/badge.svg?branch=master
+[csharp-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-csharp-sdk.svg?style=social&label=Star&maxAge=3600
+[csharp-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-csharp-sdk.svg?maxAge=3600
+
+[c-media-repo]: https://github.com/aliyun/aliyun-oss-c-media-sdk
+[c-media-version]: https://badge.fury.io/gh/aliyun%2Faliyun-media-c-sdk.svg
+[c-media-build]: https://travis-ci.org/aliyun/aliyun-oss-c-media-sdk.svg?branch=master
+[c-media-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-c-media-sdk/badge.svg?branch=master
+[c-media-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-c-media-sdk.svg?style=social&label=Star&maxAge=3600
+[c-media-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-c-media-sdk.svg?maxAge=3600
+
+[ossfs-repo]: https://github.com/
 [ossfs-version]: https://badge.fury.io/gh/aliyun%2Fossfs.svg
-[ossfs-build]: https://travis-ci.org/aliyun/ossfs.svg?branch=master
-[ossfs-coverage]: https://coveralls.io/repos/aliyun/ossfs/badge.svg?branch=master&service=github
-[ossfs-stars]: http://tuan-flask.herokuapp.com/service/star?url=https://github.com/aliyun/ossfs&type=star
+[ossfs-build]: https://travis-ci.org/.svg?branch=master
+[ossfs-coverage]: https://coveralls.io/repos//badge.svg?branch=master
+[ossfs-star]: https://img.shields.io/github/stars/.svg?style=social&label=Star&maxAge=3600
+[ossfs-issue]: https://img.shields.io/github/issues/.svg?maxAge=3600
 
 # Development (OSS members only)
 
