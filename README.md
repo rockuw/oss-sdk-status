@@ -69,19 +69,19 @@ Language | Version | Build | Coverage | Stars | Issues
 [csharp-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-csharp-sdk.svg?style=social&label=Star&maxAge=3600
 [csharp-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-csharp-sdk.svg?maxAge=3600
 
-[c-media-repo]: https://github.com/aliyun/aliyun-oss-c-media-sdk
+[c-media-repo]: https://github.com/aliyun/aliyun-media-c-sdk
 [c-media-version]: https://badge.fury.io/gh/aliyun%2Faliyun-media-c-sdk.svg
-[c-media-build]: https://travis-ci.org/aliyun/aliyun-oss-c-media-sdk.svg?branch=master
-[c-media-coverage]: https://coveralls.io/repos/aliyun/aliyun-oss-c-media-sdk/badge.svg?branch=master
-[c-media-star]: https://img.shields.io/github/stars/aliyun/aliyun-oss-c-media-sdk.svg?style=social&label=Star&maxAge=3600
-[c-media-issue]: https://img.shields.io/github/issues/aliyun/aliyun-oss-c-media-sdk.svg?maxAge=3600
+[c-media-build]: https://travis-ci.org/aliyun/aliyun-media-c-sdk.svg?branch=master
+[c-media-coverage]: https://coveralls.io/repos/aliyun/aliyun-media-c-sdk/badge.svg?branch=master
+[c-media-star]: https://img.shields.io/github/stars/aliyun/aliyun-media-c-sdk.svg?style=social&label=Star&maxAge=3600
+[c-media-issue]: https://img.shields.io/github/issues/aliyun/aliyun-media-c-sdk.svg?maxAge=3600
 
-[ossfs-repo]: https://github.com/aliyun/aliyun-ossfs
+[ossfs-repo]: https://github.com/aliyun/ossfs
 [ossfs-version]: https://badge.fury.io/gh/aliyun%2Fossfs.svg
-[ossfs-build]: https://travis-ci.org/aliyun/aliyun-ossfs.svg?branch=master
-[ossfs-coverage]: https://coveralls.io/repos/aliyun/aliyun-ossfs/badge.svg?branch=master
-[ossfs-star]: https://img.shields.io/github/stars/aliyun/aliyun-ossfs.svg?style=social&label=Star&maxAge=3600
-[ossfs-issue]: https://img.shields.io/github/issues/aliyun/aliyun-ossfs.svg?maxAge=3600
+[ossfs-build]: https://travis-ci.org/aliyun/ossfs.svg?branch=master
+[ossfs-coverage]: https://coveralls.io/repos/aliyun/ossfs/badge.svg?branch=master
+[ossfs-star]: https://img.shields.io/github/stars/aliyun/ossfs.svg?style=social&label=Star&maxAge=3600
+[ossfs-issue]: https://img.shields.io/github/issues/aliyun/ossfs.svg?maxAge=3600
 
 
 # Development (OSS members only)
