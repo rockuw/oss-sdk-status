@@ -1,16 +1,16 @@
 #! /usr/bin/env ruby
 
 all = [
-  'Python',
-  'Ruby',
-  'JavaScript',
   'PHP',
-  'C',
-  'Go',
+  'JavaScript',
+  'OSSFS',
   'Java',
+  'Python',
+  'Go',
+  'Ruby',
   'CSharp',
+  'C',
   'C-Media',
-  'OSSFS'
 ]
 
 puts <<EEE
